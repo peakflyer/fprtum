@@ -1,0 +1,10 @@
+Microwave Power = -5.0dBm 
+Microwave Frequency = 2.8585GHz 
+Laser Power = 15.0mW 
+Averaging = 10
+
+Pulse Sequence: 
+MW-Pulse  -  Break:200.0ns  -  Laser pulse:250.0ns  -  Break:450.0ns 
+ 
+Structure of -data File:
+ First Column: MW Pulse Duration [ns]           Second Column: Photoluminescence Intensity [cps]

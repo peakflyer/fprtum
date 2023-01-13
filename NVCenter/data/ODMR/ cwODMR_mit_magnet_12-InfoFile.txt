@@ -1,0 +1,6 @@
+Microwave Power = -5.0dBm 
+Laser Power = 5.0mW 
+Averaging = 3
+ 
+Structure of -data File:
+ First Column: MW Frequency [GHz]           Second Column: Photoluminescence Intensity [cps]

@@ -1,0 +1,10 @@
+Microwave Power = -5.0dBm 
+Microwave Frequency = 2.8585GHz 
+MW PiPulse Duration = 140.0ns 
+Fix Tau1-Time = 1000.0ns 
+Laser Power = 15.0mW 
+Anzahl Mittelungen = 5
+
+Puls-Sequenz = Pi/2-Pulse  -  Tau1-Time:1000.0ns  -  Pi-Pulse  -  Tau2-Time  -  Pi/2-Pulse  -  Break1: 200.0ns  -  Laser Pulse:150.0ns  -  Break2:450.0ns 
+Structure of -data File:
+ First Column: Variable Tau2 Duration [ns]           Second Column: Photoluminescence Intensity [cps]
